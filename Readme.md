@@ -48,6 +48,9 @@ Distribution of Borrowing dependency
 ![image](https://github.com/user-attachments/assets/0f8db311-924a-40b6-b44d-418f04d2600d)
 Dustribution of Total Assets to GNP
 
+![image](https://github.com/user-attachments/assets/506b76e9-56b4-44a2-9596-8c04c8bcd4ea)  
+Correlation Heatmap
+
 
 >Modeling and Prediction
 
