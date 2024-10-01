@@ -64,6 +64,7 @@ Models were evaluated based on their precision, recall, F1 scores, yielding thes
 
 
 >Future Work
+  
 Evaluate the performance using other classification algorithms (XGBCV, RF)
 Hyperparameter tuning: Fine-tune the hyperparameters of the models to potentially improve their performance.
 Improving the feature engineering by considering other parameters to build the model.
