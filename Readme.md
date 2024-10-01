@@ -39,6 +39,9 @@ Trained and evaluated a Random Forest Classifier model to predict bankruptcy for
 
 >Evaluation
 
+Models were evaluated based on their precision, recall, F1 scores, yielding these results:  
+![image](https://github.com/user-attachments/assets/4cb38994-a298-4852-a1d7-2d6dc692c807)
+
 
 >Future Work
 
