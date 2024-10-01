@@ -45,10 +45,10 @@ Distribution of Net income to total assets
 ![image](https://github.com/user-attachments/assets/c39bc5bb-7155-4432-821d-18373a28a910)  
 Distribution of Borrowing dependency  
 
-![image](https://github.com/user-attachments/assets/0f8db311-924a-40b6-b44d-418f04d2600d)
+![image](https://github.com/user-attachments/assets/0f8db311-924a-40b6-b44d-418f04d2600d)  
 Dustribution of Total Assets to GNP
 
-![image](https://github.com/user-attachments/assets/506b76e9-56b4-44a2-9596-8c04c8bcd4ea)  
+![image](https://github.com/user-attachments/assets/a2d59591-34fa-47a5-8e17-d694df2f18f2)
 Correlation Heatmap
 
 
