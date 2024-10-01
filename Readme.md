@@ -2,7 +2,7 @@
 
 ## Project overview:
 
-The goal is to use a supervised classification model to check whether an organization is bankrupt or not, through leveraging various financial ratios with respect to the companys macro/microecenomic factors. 
+The goal is to use a supervised classification model to check whether an organization is bankrupt or not, through leveraging various financial ratios with respect to the companys macro/microecenomic factors.  
 ![image](https://github.com/user-attachments/assets/391fd427-185e-48f5-9677-2a2aec072878)
 
 
